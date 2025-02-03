@@ -1,0 +1,305 @@
+cat1,cat2,latin,french,notes1,notes2,notes3,notes4,Broad_Category,Specific_Category
+1,1,aestimare,estimer,,,,,verbe,1er groupe
+1,1,amare,aimer,,,,,verbe,1er groupe
+1,1,ambulare,marcher,,,,,verbe,1er groupe
+1,1,appropinquare,s'approcher,,,,,verbe,1er groupe
+1,1,balare,bêler,ovis balat ,,,,verbe,1er groupe
+1,1,cantare,chanter,,,,,verbe,1er groupe
+1,1,captare,capturer,,,,,verbe,1er groupe
+1,1,celare,cacher,,,,,verbe,1er groupe
+1,1,clamare,crier,,,,,verbe,1er groupe
+1,1,declinare,décliner,,,,,verbe,1er groupe
+1,1,delectare,ravir,,,,,verbe,1er groupe
+1,1,enumerare,compter,,,,,verbe,1er groupe
+1,1,errare,se tromper,,,,,verbe,1er groupe
+1,1,excitare,réveiller,,,,,verbe,1er groupe
+1,1,exclamare,exclamer,,,,,verbe,1er groupe
+1,1,exspectare,attendre,,,,,verbe,1er groupe
+1,1,gustare,goûter,,,,,verbe,1er groupe
+1,1,habitare,habiter,,,,,verbe,1er groupe
+1,1,interrogare,questionner,,,,,verbe,1er groupe
+1,1,intrare,entrer,,,,,verbe,1er groupe
+1,1,lacrimare,pleurer,,,,,verbe,1er groupe
+1,1,latrare,aboyer,,,,,verbe,1er groupe
+1,1,lavare,laver,,,,,verbe,1er groupe
+1,1,laudare,faire l'éloge,,,,,verbe,1er groupe
+1,1,monstrare,montrer,,,,,verbe,1er groupe
+1,1,narrare,conter,,,,,verbe,1er groupe
+1,1,natare,nager,,,,,verbe,1er groupe
+1,1,numerare,compter,,,,,verbe,1er groupe
+1,1,occultare,se cacher,,,,,verbe,1er groupe
+1,1,ornare,décorer,,,,,verbe,1er groupe
+1,1,perflare,souffler à travers,,,,,verbe,1er groupe
+1,1,plorare,pleurer,,,,,verbe,1er groupe
+1,1,portare,porter,,,,,verbe,1er groupe
+1,1,pugnare,se battre,,,,,verbe,1er groupe
+1,1,pulsare,cogner,,,,,verbe,1er groupe
+1,1,recitare,réciter,,,,,verbe,1er groupe
+1,1,rogare,demander,,,,,verbe,1er groupe
+1,1,saltare,danser,,,,,verbe,1er groupe
+1,1,sanare,guérir,,,,,verbe,1er groupe
+1,1,servare,sauver,,,,,verbe,1er groupe
+1,1,spirare,respirer,,,,,verbe,1er groupe
+1,1,stare,se tenir debout ,,,,,verbe,1er groupe
+1,1,ulurare,hurler,lupus ululat ,,,,verbe,1er groupe
+1,1,verberare,battre,,,,,verbe,1er groupe
+1,1,vocare,appeler,,,,,verbe,1er groupe
+1,1,volare,voler,avis volat,,,,verbe,1er groupe
+1,2,audere,risquer,,,,,verbe,2eme groupe
+1,2,contorquere,lancer,,,,,verbe,2eme groupe
+1,2,debere,devoir,,,,,verbe,2eme groupe
+1,2,delere,effacer,,,,,verbe,2eme groupe
+1,2,docere,enseigner,,,,,verbe,2eme groupe
+1,2,gaudere,se réjouir,,,,,verbe,2eme groupe
+1,2,habere,avoir,,,,,verbe,2eme groupe
+1,2,iacere,se coucher,,,,,verbe,2eme groupe
+1,2,implere,remplir,,,,,verbe,2eme groupe
+1,2,iubere,ordonner,,,,,verbe,2eme groupe
+1,2,licere,permettre,,,,,verbe,2eme groupe
+1,2,lucere,briller,,,,,verbe,2eme groupe
+1,2,monere,avertir,,,,,verbe,2eme groupe
+1,2,movere,bouger,,,,,verbe,2eme groupe
+1,2,olere,sentir,,,,,verbe,2eme groupe
+1,2,parere,obéir,,,,,verbe,2eme groupe
+1,2,perterrere,effrayer,,,,,verbe,2eme groupe
+1,2,placere,plaire,,,,,verbe,2eme groupe
+1,2,respondere,répondre,,,,,verbe,2eme groupe
+1,2,ridere,rire,,,,,verbe,2eme groupe
+1,2,salvere,être en bonne santé,,,,,verbe,2eme groupe
+1,2,sedere,s'asseoir ,,,,,verbe,2eme groupe
+1,2,solere,avoir l'habitude de,,,,,verbe,2eme groupe
+1,2,studere,étudier,,,,,verbe,2eme groupe
+1,2,sustinere,soutenir,,,,,verbe,2eme groupe
+1,2,tacere,se taire ,,,,,verbe,2eme groupe
+1,2,tenere,tenir,,,,,verbe,2eme groupe
+1,2,timere,craindre,,,,,verbe,2eme groupe
+1,2,valere,être en bonne santé,,,,,verbe,2eme groupe
+1,2,videre,voir,,,,,verbe,2eme groupe
+1,3,accurrere,accourir,,,,,verbe,3eme groupe
+1,3,agere,agir,,,,,verbe,3eme groupe
+1,3,ascendere,monter,,,,,verbe,3eme groupe
+1,3,bibere,boire,,,,,verbe,3eme groupe
+1,3,carpere,cueillir,,,,,verbe,3eme groupe
+1,3,claudere,fermer,,,,,verbe,3eme groupe
+1,3,colligere,collecter,,,,,verbe,3eme groupe
+1,3,comedere,manger,,,,,verbe,3eme groupe
+1,3,concupiscere,désirer,,,,,verbe,3eme groupe
+1,3,condere,construire,,,,,verbe,3eme groupe
+1,3,construere,construire,,,,,verbe,3eme groupe
+1,3,currere,courrir,,,,,verbe,3eme groupe
+1,3,descendere,descendre,,,,,verbe,3eme groupe
+1,3,discere,apprendre,,,,,verbe,3eme groupe
+1,3,discedere,se retirer,,,,,verbe,3eme groupe
+1,3,emere,vendre,,,,,verbe,3eme groupe
+1,3,facere,faire   ,,,,,verbe,3eme groupe
+1,3,fluere,couler ,,,,,verbe,3eme groupe
+1,3,legere,lire,,,,,verbe,3eme groupe
+1,3,iacere,lancer,,,,,verbe,3eme groupe
+1,3,interficere,tuer,,,,,verbe,3eme groupe
+1,3,gerere,porter,,,,,verbe,3eme groupe
+1,3,mittere,envoyer,,,,,verbe,3eme groupe
+1,3,parere,mettre au monde,,,,,verbe,3eme groupe
+1,3,ponere,mettre   ,,,,,verbe,3eme groupe
+1,3,regere,gouverner,,,,,verbe,3eme groupe
+1,3,sumere,prendre,,,,,verbe,3eme groupe
+1,3,tergere,sécher,,,,,verbe,3eme groupe
+1,3,tradere,échanger,,,,,verbe,3eme groupe
+1,3,vehere,transporter,,,,,verbe,3eme groupe
+1,3,vertere,tourner,,,,,verbe,3eme groupe
+1,3,visere,visiter,,,,,verbe,3eme groupe
+1,4,aperire,ouvrir,,,,,verbe,4eme groupe
+1,4,audire,entendre,,,,,verbe,4eme groupe
+1,4,convenire,rencontrer,,,,,verbe,4eme groupe
+1,4,dormire,dormir,,,,,verbe,4eme groupe
+1,4,esurire,avoir faim ,,,,,verbe,4eme groupe
+1,4,exhaurire,vider,,,,,verbe,4eme groupe
+1,4,invenire,trouver,,,,,verbe,4eme groupe
+1,4,operire,cacher,,,,,verbe,4eme groupe
+1,4,punire,punir,,,,,verbe,4eme groupe
+1,4,reperire,trouver,,,,,verbe,4eme groupe
+1,4,scire,savoir ,,,,,verbe,4eme groupe
+1,4,sentire,ressentir,,,,,verbe,4eme groupe
+1,4,venire,venir ,,,,,verbe,4eme groupe
+1,4,vestire,habiller,,,,,verbe,4eme groupe
+1,5,afferre,apporter,,,,,verbe,verbes deponants
+1,5,dare,donner,,,,,verbe,verbes deponants
+1,5,edere,manger,,,,,verbe,verbes deponants
+1,5,esse,être,,,,,verbe,verbes deponants
+1,5,exire,sortir,,,,,verbe,verbes deponants
+1,5,ferre,apporter,,,,,verbe,verbes deponants
+1,5,ire,aller,,,,,verbe,verbes deponants
+1,5,nolle ,ne pas ,,,,,verbe,verbes deponants
+1,5,posse,pouvoir,,,,,verbe,verbes deponants
+1,5,velle,vouloir ,,,,,verbe,verbes deponants
+1,6,complecti,entourer avec les bras,,,,,verbe,verbes deponants
+1,6,conari ,essayer,,,,,verbe,verbes deponants
+1,6,consolari ,consoler,,,,,verbe,verbes deponants
+1,6,egrederi ,quitter,,,,,verbe,verbes deponants
+1,6,intueri,regarder,,,,,verbe,verbes deponants
+1,6,labi,couler ,lacrimae labuntur,,,,verbe,verbes deponants
+1,6,laetari,se réjouir,,,,,verbe,verbes deponants
+1,6,loqui,dire ,,,,,verbe,verbes deponants
+1,6,opperiri,attendre,,,,,verbe,verbes deponants
+1,6,oriri,se lever,sol oritur,,,,verbe,verbes deponants
+1,6,proficisci,partir,,,,,verbe,verbes deponants
+1,6,vereri,craindre,,,,,verbe,verbes deponants
+2,1,cena,souper,,,,,nom,1ere declinaison
+2,2,cenaculum,salle à manger,,,,,nom,2eme declinaison
+2,3,mater,mère,,,,Nomina en 'er' ,nom,3eme declinaison
+2,3,senex,vieillard,,,,Nomina en 'ex' ,nom,3eme declinaison
+2,3,bubo,hibou,"bubo, bubonis, m. ",,,Nomina en 'o' ,nom,3eme declinaison
+2,3,caro,viande,"caro, carnis, f. ",,,,nom,3eme declinaison
+2,3,comparatio ,comparaison,"comparatio, comparationis, f. ",,,,nom,3eme declinaison
+2,3,declinatio,déclinaison,"declinatio, declinationis, f. ",,,,nom,3eme declinaison
+2,3,histrio,acteur,"histrio, histrionis, m. ",,,,nom,3eme declinaison
+2,3,homo,être humain,"homo, hominis, m. ",,,,nom,3eme declinaison
+2,3,inscriptio,inscription,"inscriptio, inscriptionis, f. ",,,,nom,3eme declinaison
+2,3,lectio,leçon,"lectio, lectionis, f. ",,,,nom,3eme declinaison
+2,3,leo,lion,"leo, leonis, m. ",,,,nom,3eme declinaison
+2,3,pavo,paon,"pavo, pavonis, m. ",,,,nom,3eme declinaison
+2,3,pulmo,poumon,"pulmo, pulmonis, m. ",,,,nom,3eme declinaison
+2,3,salutatio,salutation,"salutatio, salutationis, f.",,,,nom,3eme declinaison
+2,3,salutatio,visite officielle,"salutatio, salutationis, f.",,,,nom,3eme declinaison
+2,3,consul,consulis,"consul, consulis, m. ",,,Nomina en 'ur' ,nom,3eme declinaison
+2,3,fulgur,éclair,"fulgur, fulguris, n. ",,,Nomina en 'ul' ,nom,3eme declinaison
+2,3,fur,voleur,"fur,furis, m. f. ",,,,nom,3eme declinaison
+2,3,iecur,foie,"iecur, iecoris, m. ",,,,nom,3eme declinaison
+2,3,caput ,tête,"caput, capitis, n. ",,,Nomina en 'ut' ,nom,3eme declinaison
+2,4,meridies,midi,,,,,nom,4eme declinaison
+2,5,facies,visage,,,,,nom,5eme declinaison
+3,1,aeger,malade,,,,,adjectif,1ere & 2eme declinaison
+3,1,alter,autre,,,,,adjectif,1ere & 2eme declinaison
+3,1,dexter,droit,,,,,adjectif,1ere & 2eme declinaison
+3,1,neuter,neutre,,,,,adjectif,1ere & 2eme declinaison
+3,1,niger,noir,,,,,adjectif,1ere & 2eme declinaison
+3,1,ruber,rouge,,,,,adjectif,1ere & 2eme declinaison
+3,1,miser,malheureux,,,,,adjectif,1ere & 2eme declinaison
+3,1,pulcher,beau,,,,,adjectif,1ere & 2eme declinaison
+3,1,sacer,sacré,,,,,adjectif,1ere & 2eme declinaison
+3,1,sinister,gauche,,,,,adjectif,1ere & 2eme declinaison
+3,1,uter,un des deux,,,,,adjectif,1ere & 2eme declinaison
+3,1,albus,blanc,,,,,adjectif,1ere & 2eme declinaison
+3,1,altus,haut,,,,,adjectif,1ere & 2eme declinaison
+3,1,antiquus,antique,,,,,adjectif,1ere & 2eme declinaison
+3,1,armatus,armé,,,,,adjectif,1ere & 2eme declinaison
+3,1,barbarus,barbare,,,,,adjectif,1ere & 2eme declinaison
+3,1,benignus,bienveillant,,,,,adjectif,1ere & 2eme declinaison
+3,1,bonus,bon,,,,,adjectif,1ere & 2eme declinaison
+3,1,callidus,intelligent,,,,,adjectif,1ere & 2eme declinaison
+3,1,candidus,blanc,,,,,adjectif,1ere & 2eme declinaison
+3,1,ceterus,qui reste,,,,,adjectif,1ere & 2eme declinaison
+3,1,comparativus,comparatif,,,,,adjectif,1ere & 2eme declinaison
+3,1,crassus,épais,,,,,adjectif,1ere & 2eme declinaison
+3,1,dimidius,moitié,,,,,adjectif,1ere & 2eme declinaison
+3,1,ebrius ,saoûl,,,,,adjectif,1ere & 2eme declinaison
+3,1,aequus,à cheval,,,,,adjectif,1ere & 2eme declinaison
+3,1,fartus,fourré,,,,,adjectif,1ere & 2eme declinaison
+3,1,femininus,féminin,,,,,adjectif,1ere & 2eme declinaison
+3,1,ferus,sauvage,,,,,adjectif,1ere & 2eme declinaison
+3,1,fessus,fatigué,,,,,adjectif,1ere & 2eme declinaison
+3,1,foedus,laid,,,,,adjectif,1ere & 2eme declinaison
+3,1,formosus,beau,,,,,adjectif,1ere & 2eme declinaison
+3,1,ignavus,paresseux,,,,,adjectif,1ere & 2eme declinaison
+3,1,improbus,malhonnête,,,,,adjectif,1ere & 2eme declinaison
+3,1,impius,impie,,,,,adjectif,1ere & 2eme declinaison
+3,1,iratus,fâché,,,,,adjectif,1ere & 2eme declinaison
+3,1,laetus,heureux,,,,,adjectif,1ere & 2eme declinaison
+3,1,longus,long,,,,,adjectif,1ere & 2eme declinaison
+3,1,malus,mauvais,,,,,adjectif,1ere & 2eme declinaison
+3,1,masculinus,masculin,,,,,adjectif,1ere & 2eme declinaison
+3,1,mortus,mort,,,,,adjectif,1ere & 2eme declinaison
+3,1,multus,beaucoup,,,,,adjectif,1ere & 2eme declinaison
+3,1,negociosus,occupé,,,,,adjectif,1ere & 2eme declinaison
+3,1,novus,neuf,,,,,adjectif,1ere & 2eme declinaison
+3,1,nullus,aucun,,,,,adjectif,1ere & 2eme declinaison
+3,1,otiosus,inactif,,,,,adjectif,1ere & 2eme declinaison
+3,1,parvus,petit,,,,,adjectif,1ere & 2eme declinaison
+3,1,paucus,peu,,,,,adjectif,1ere & 2eme declinaison
+3,1,pecuniosus,riche ,,,,,adjectif,1ere & 2eme declinaison
+3,1,perfidus,perfide,,,,,adjectif,1ere & 2eme declinaison
+3,1,peritus,expérimenté,,,,,adjectif,1ere & 2eme declinaison
+3,1,pessimus,le pire,,,,,adjectif,1ere & 2eme declinaison
+3,1,pius,pieux,,,,,adjectif,1ere & 2eme declinaison
+3,1,placidus,calm,,,,,adjectif,1ere & 2eme declinaison
+3,1,plenus,plein,,,,,adjectif,1ere & 2eme declinaison
+3,1,plurimus,le plus,,,,,adjectif,1ere & 2eme declinaison
+3,1,posterus,qui vient après,,,,,adjectif,1ere & 2eme declinaison
+3,1,probus,honnête,,,,,adjectif,1ere & 2eme declinaison
+3,1,proximus,prochain,,,,,adjectif,1ere & 2eme declinaison
+3,1,purus,propre,,,,,adjectif,1ere & 2eme declinaison
+3,1,quartus,quart,,,,,adjectif,1ere & 2eme declinaison
+3,1,quietus,paisible,,,,,adjectif,1ere & 2eme declinaison
+3,1,salsus,salé,,,,,adjectif,1ere & 2eme declinaison
+3,1,sanus,en bonne santé,,,,,adjectif,1ere & 2eme declinaison
+3,1,semisomnus,à demi endormi,,,,,adjectif,1ere & 2eme declinaison
+3,1,solus,seul,,,,,adjectif,1ere & 2eme declinaison
+3,1,sordidus,sale,,,,,adjectif,1ere & 2eme declinaison
+3,1,stultus,stupide,,,,,adjectif,1ere & 2eme declinaison
+3,1,tacitus,silencieux ,,,,,adjectif,1ere & 2eme declinaison
+3,1,totus,tous ,,,,,adjectif,1ere & 2eme declinaison
+3,1,vacuus,vide ,,,,,adjectif,1ere & 2eme declinaison
+3,1,vivus,vivant,,,,,adjectif,1ere & 2eme declinaison
+3,3,sapiens,sage,,,,,adjectif,3eme declinaison
+3,3,brevis ,court,,,,,adjectif,3eme declinaison
+3,3,fortis,brave,,,,,adjectif,3eme declinaison
+3,3,gravis,lourd,,,,,adjectif,3eme declinaison
+3,3,omnis,tous ,,,,,adjectif,3eme declinaison
+3,3,pinguis,gras,,,,,adjectif,3eme declinaison
+3,3,pluralis,pluriel ,,,,,adjectif,3eme declinaison
+3,3,senilis,vieux,,,,,adjectif,3eme declinaison
+3,3,singularis,singulier,,,,,adjectif,3eme declinaison
+3,3,tristis,triste,,,,,adjectif,3eme declinaison
+3,3,viridis,vert,,,,,adjectif,3eme declinaison
+4,1,ab,de,+ AB,,,,preposition,
+4,1,ab,par ,+ AB,,,,preposition,
+4,1,ad,vers,+ AC,,,,preposition,
+4,1,ante,avant,+ AC,,,,preposition,
+4,1,apud,en compagnie de,+ AC,,,,preposition,
+4,1,contra,contre,+ AC,,,,preposition,
+4,1,circum,autour de,+ AC,,,,preposition,
+4,1,cum,avec,+ AB,,,,preposition,
+4,1,de,de,+ AB,,,,preposition,
+4,1,ex,à partir de ,+ AB,,,,preposition,
+4,1,in,dans ,+ AC/AB,,,,preposition,
+4,1,infra,en dessous de,+ AB,,,,preposition,
+4,1,inter ,entre,+ AC,,,,preposition,
+4,1,intra ,à l'intérieur de ,+ AC,,,,preposition,
+4,1,per,à travers de,+ AC,,,,preposition,
+4,1,post ,après ,+ AC,,,,preposition,
+4,1,praeter,excepté,+ AC,,,,preposition,
+4,1,procul ab,loin de,,,,,preposition,
+4,1,prope,près de ,+ AC,,,,preposition,
+4,1,sine,sans ,+ AB,,,,preposition,
+4,1,sub,sous,+ AC/AB,,,,preposition,
+4,1,super,sur,,,,,preposition,
+4,1,supra,au-dessus de,,,,,preposition,
+5,1,celeriter,rapidement,,,,,autre,
+5,1,cotidie,tous les jours,,,,,autre,
+5,1,cum,quand,,,,,autre,
+5,1,dum,pendant que,,,,,autre,
+5,1,enim ,car,,,,,autre,
+5,1,etiam ,aussi,,,,,autre,
+5,1,hic,ici,,,,,autre,
+5,1,hodie,aujourd'hui,,,,,autre,
+5,1,iam,maintenant,,,,,autre,
+5,1,illic,là,,,,,autre,
+5,1,immo,au contraire,,,,,autre,
+5,1,interdum,parfois,,,,,autre,
+5,1,languide,lent,,,,,autre,
+5,1,mane,tôt,,,,,autre,
+5,1,mane,le matin,,,,,autre,
+5,1,nam,car,,,,,autre,
+5,1,nimis,trop,,,,,autre,
+5,1,noctu,la nuit ,,,,,autre,
+5,1,non solum sed etiam,non seulement mais aussi,,,,,autre,
+5,1,nunc,maintenant,,,,,autre,
+5,1,quoque,aussi,,,,,autre,
+5,1,rapide,rapidement,,,,,autre,
+5,1,saepe,souvent,,,,,autre,
+5,1,satis,assez,,,,,autre,
+5,1,suaviter,doucement,,,,,autre,
+5,1,tacite,en silence,,,,,autre,
+5,1,tempori,à temps,,,,,autre,
+5,1,valde,très,,,,,autre,
+5,1,vesperi,dans la soirée,,,,,autre,
+5,1,vix ,à peine,,,,,autre,

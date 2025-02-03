@@ -1,1 +1,15 @@
-1. have a way to select all categories
+1. have a way to select all categories -- done
+2. GUI 
+
+
+
+
+
+## add all options for 3 sub questions
+
+1. what happens when you're done all the words in the chose category
+    - keep going but reset the list
+2. -- what happens when the same latin word in the same group and subgroup -- ab latin -- preposition - 2 diff french
+   -- same french word -- 2 latin translations (de) - ab or de 
+## accept either answer, but display the other one as antoher potential answer
+
