@@ -60,7 +60,6 @@ df['Specific_Category'] = df.apply(lambda row: specific_category(row['cat1'], ro
 
 def main():
     st.title("Vocabulaire latin-francais")
-
      
 
     # Initialize session state
@@ -136,7 +135,7 @@ def main():
             question = st.session_state.random_word['french']
             answer = st.session_state.random_word['latin']
 
-        st.write(f"Quelle est la traduction de {question}")
+        st.write(f"Quelle est la traduction de: {question}")
         user_answer = st.text_input("Votre réponse:")
         if st.button("Soumettre"):
             if user_answer.strip().lower() == answer.strip().lower():
